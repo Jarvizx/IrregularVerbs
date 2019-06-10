@@ -1,0 +1,1095 @@
+{
+  "arise":{
+    "past": "arose",
+    "participles": "arisen",
+    "translation": "surgir/levantarse",
+    "hint": 1,
+    "frequency": 0.0029959878282956095
+  },
+  "awake":{
+    "past": "awoke",
+    "participles": "awoken",
+    "translation": "despertarse",
+    "hint": 1,
+    "frequency": 0.0048317762069054505
+  },
+  "be/am/are/is":{
+    "past": "was/were",
+    "participles": "been",
+    "translation": "ser/estar",
+    "hint": 2,
+    "frequency": 0.012721760310672715
+  },
+  "bear":{
+    "past": "bore",
+    "participles": "born/born",
+    "translation": "soportar",
+    "hint": 1,
+    "frequency": 0.007427224865380203
+  },
+  "beat":{
+    "past": "beat",
+    "participles": "beaten",
+    "translation": "golpear",
+    "hint": 1,
+    "frequency": 0.007340380040506968
+  },
+  "become":{
+    "past": "became",
+    "participles": "become",
+    "translation": "llegar a ser",
+    "hint": 2,
+    "frequency": 0.0076938663886376765
+  },
+  "begin":{
+    "past": "began",
+    "participles": "begun",
+    "translation": "empezar",
+    "hint": 1,
+    "frequency": 0.006370653593000244
+  },
+  "bend":{
+    "past": "bent",
+    "participles": "bent",
+    "translation": "doblar",
+    "hint": 1,
+    "frequency": 0.004799818340821222
+  },
+  "bet":{
+    "past": "bet",
+    "participles": "bet",
+    "translation": "apostar",
+    "hint": 9,
+    "frequency": 0.007824863528723918
+  },
+  "bind":{
+    "past": "bound",
+    "participles": "bound",
+    "translation": "atar/encuadernar",
+    "hint": 1,
+    "frequency": 0.005354122560278137
+  },
+  "bid":{
+    "past": "bid",
+    "participles": "bid",
+    "translation": "pujar",
+    "hint": 9,
+    "frequency": 0.005005177884111232
+  },
+  "bite":{
+    "past": "bit",
+    "participles": "bitten",
+    "translation": "morder",
+    "hint": 1,
+    "frequency": 0.007589059931013546
+  },
+  "bleed":{
+    "past": "bled",
+    "participles": "bled",
+    "translation": "sangrar",
+    "hint": 5,
+    "frequency": 0.003991959749117386
+  },
+  "blow":{
+    "past": "blew",
+    "participles": "blown",
+    "translation": "soplar",
+    "hint": 1,
+    "frequency": 0.006477917790420083
+  },
+  "break":{
+    "past": "broke",
+    "participles": "broken",
+    "translation": "romper",
+    "hint": 1,
+    "frequency": 0.007641196180846076
+  },
+  "breed":{
+    "past": "bred",
+    "participles": "bred",
+    "translation": "criar",
+    "hint": 5,
+    "frequency": 0.00402590630815873
+  },
+  "bring":{
+    "past": "brought",
+    "participles": "brought",
+    "translation": "traer/llevar",
+    "hint": 8,
+    "frequency": 0.008407383875328463
+  },
+  "broadcast":{
+    "past": "broadcast",
+    "participles": "broadcast",
+    "translation": "radiar",
+    "hint": 9,
+    "frequency": 0.004628793606162947
+  },
+  "build":{
+    "past": "built",
+    "participles": "built",
+    "translation": "edificar",
+    "hint": 1,
+    "frequency": 0.006607687804642951
+  },
+  "burn":{
+    "past": "burnt/burned",
+    "participles": "burnt/burned",
+    "translation": "quemar",
+    "hint": 3,
+    "frequency": 0.006532113231980928
+  },
+  "burst":{
+    "past": "burst",
+    "participles": "burst",
+    "translation": "reventar",
+    "hint": 9,
+    "frequency": 0.004780612829699348
+  },
+  "buy":{
+    "past": "bought",
+    "participles": "bought",
+    "translation": "comprar",
+    "hint": 8,
+    "frequency": 0.007621122502927638
+  },
+  "cast":{
+    "past": "cast",
+    "participles": "cast",
+    "translation": "arrojar",
+    "hint": 9,
+    "frequency": 0.005838456346133122
+  },
+  "catch":{
+    "past": "caught",
+    "participles": "caught",
+    "translation": "coger",
+    "hint": 8,
+    "frequency": 0.007493497060576355
+  },
+  "come":{
+    "past": "came",
+    "participles": "come",
+    "translation": "venir",
+    "hint": 2,
+    "frequency": 0.011104100361747875
+  },
+  "cost":{
+    "past": "cost",
+    "participles": "cost",
+    "translation": "costar",
+    "hint": 9,
+    "frequency": 0.0067216651966695365
+  },
+  "cut":{
+    "past": "cut",
+    "participles": "cut",
+    "translation": "cortar",
+    "hint": 9,
+    "frequency": 0.008389485795455643
+  },
+  "choose":{
+    "past": "chose",
+    "participles": "chosen",
+    "translation": "elegir",
+    "hint": 1,
+    "frequency": 0.006186994938166481
+  },
+  "cling":{
+    "past": "clung",
+    "participles": "clung",
+    "translation": "agarrarse",
+    "hint": 1,
+    "frequency": 0.002467640148747997
+  },
+  "creep":{
+    "past": "crept",
+    "participles": "crept",
+    "translation": "arrastrarse",
+    "hint": 5,
+    "frequency": 0.0037682576456617755
+  },
+  "deal":{
+    "past": "dealt",
+    "participles": "dealt",
+    "translation": "tratar",
+    "hint": 6,
+    "frequency": 0.007071229955253753
+  },
+  "dig":{
+    "past": "dug",
+    "participles": "dug",
+    "translation": "cavar",
+    "hint": 1,
+    "frequency": 0.0055197040442371195
+  },
+  "do/does":{
+    "past": "did",
+    "participles": "done",
+    "translation": "hacer",
+    "hint": 2,
+    "frequency": 0.01138146187901019
+  },
+  "draw":{
+    "past": "drew",
+    "participles": "drawn",
+    "translation": "dibujar",
+    "hint": 1,
+    "frequency": 0.005755031230014537
+  },
+  "dream":{
+    "past": "dreamt/dreamed",
+    "participles": "dreamt/dreamed",
+    "translation": "soñar",
+    "hint": 6,
+    "frequency": 0.006905809160918322
+  },
+  "drink":{
+    "past": "drank",
+    "participles": "drunk",
+    "translation": "beber",
+    "hint": 1,
+    "frequency": 0.007702354101145466
+  },
+  "drive":{
+    "past": "drove",
+    "participles": "driven",
+    "translation": "conducir",
+    "hint": 1,
+    "frequency": 0.006854386482613615
+  },
+  "eat":{
+    "past": "ate",
+    "participles": "eaten",
+    "translation": "comer",
+    "hint": 1,
+    "frequency": 0.007573399097712632
+  },
+  "fall":{
+    "past": "fell",
+    "participles": "fallen",
+    "translation": "caer",
+    "hint": 1,
+    "frequency": 0.0071075039525004356
+  },
+  "feed":{
+    "past": "fed",
+    "participles": "fed",
+    "translation": "alimentar",
+    "hint": 5,
+    "frequency": 0.006074853376882277
+  },
+  "feel":{
+    "past": "felt",
+    "participles": "felt",
+    "translation": "sentir",
+    "hint": 5,
+    "frequency": 0.008541261544770867
+  },
+  "fight":{
+    "past": "fought",
+    "participles": "fought",
+    "translation": "luchar",
+    "hint": 8,
+    "frequency": 0.00736792663862084
+  },
+  "find":{
+    "past": "found",
+    "participles": "found",
+    "translation": "encontrar",
+    "hint": 1,
+    "frequency": 0.009289599410085642
+  },
+  "flee":{
+    "past": "fled",
+    "participles": "fled",
+    "translation": "huir",
+    "hint": 5,
+    "frequency": 0.004513328079948405
+  },
+  "fly":{
+    "past": "flew",
+    "participles": "flown",
+    "translation": "volar",
+    "hint": 1,
+    "frequency": 0.0063311532630369585
+  },
+  "forbid":{
+    "past": "forbade",
+    "participles": "forbidden",
+    "translation": "prohibir",
+    "hint": 1,
+    "frequency": 0.004598035678447937
+  },
+  "forget":{
+    "past": "forgot",
+    "participles": "forgotten",
+    "translation": "olvidar",
+    "hint": 1,
+    "frequency": 0.007846541839022092
+  },
+  "forgive":{
+    "past": "forgave",
+    "participles": "forgiven",
+    "translation": "perdonar",
+    "hint": 1,
+    "frequency": 0.006390404496427043
+  },
+  "freeze":{
+    "past": "froze",
+    "participles": "frozen",
+    "translation": "helar",
+    "hint": 1,
+    "frequency": 0.005268539929746953
+  },
+  "get":{
+    "past": "got",
+    "participles": "got/gotten",
+    "translation": "obtener",
+    "hint": 1,
+    "frequency": 0.011404487860194058
+  },
+  "give":{
+    "past": "gave",
+    "participles": "given",
+    "translation": "dar",
+    "hint": 1,
+    "frequency": 0.009299986213654458
+  },
+  "go/goes":{
+    "past": "went",
+    "participles": "gone",
+    "translation": "ir",
+    "hint": 2,
+    "frequency": 0.01062633816365253
+  },
+  "grow":{
+    "past": "grew",
+    "participles": "grown",
+    "translation": "crecer",
+    "hint": 1,
+    "frequency": 0.006503303681575012
+  },
+  "grind":{
+    "past": "ground",
+    "participles": "ground",
+    "translation": "moler",
+    "hint": 1,
+    "frequency": 0.006712340613248322
+  },
+  "hang":{
+    "past": "hung",
+    "participles": "hung",
+    "translation": "colgar",
+    "hint": 1,
+    "frequency": 0.006903943408499287
+  },
+  "have":{
+    "past": "had",
+    "participles": "had",
+    "translation": "haber o tener",
+    "hint": 2,
+    "frequency": 0.011375168183013951
+  },
+  "hear":{
+    "past": "heard",
+    "participles": "heard",
+    "translation": "oir",
+    "hint": 6,
+    "frequency": 0.009078926666359025
+  },
+  "hide":{
+    "past": "hid",
+    "participles": "hidden",
+    "translation": "ocultar",
+    "hint": 1,
+    "frequency": 0.006410941306213921
+  },
+  "hit":{
+    "past": "hit",
+    "participles": "hit",
+    "translation": "golpear",
+    "hint": 9,
+    "frequency": 0.00844758183263858
+  },
+  "hold":{
+    "past": "held",
+    "participles": "held",
+    "translation": "agarrar/celebrar",
+    "hint": 2,
+    "frequency": 0.00799552040442351
+  },
+  "hurt":{
+    "past": "hurt",
+    "participles": "hurt",
+    "translation": "herir",
+    "hint": 9,
+    "frequency": 0.008337160228642062
+  },
+  "keep":{
+    "past": "kept",
+    "participles": "kept",
+    "translation": "conservar",
+    "hint": 5,
+    "frequency": 0.008646726618536991
+  },
+  "know":{
+    "past": "knew",
+    "participles": "known",
+    "translation": "saber/conocer",
+    "hint": 1,
+    "frequency": 0.010762870932258967
+  },
+  "kneel":{
+    "past": "knelt",
+    "participles": "knelt",
+    "translation": "arrodillarse",
+    "hint": 5,
+    "frequency": 0.0032823185370075914
+  },
+  "knit":{
+    "past": "knit",
+    "participles": "knit",
+    "translation": "hacer punto",
+    "hint": 9,
+    "frequency": 0.0029399958762394212
+  },
+  "lay":{
+    "past": "laid",
+    "participles": "laid",
+    "translation": "poner",
+    "hint": 4,
+    "frequency": 0.00638060739208437
+  },
+  "lead":{
+    "past": "led",
+    "participles": "led",
+    "translation": "conducir",
+    "hint": 5,
+    "frequency": 0.006497155608243764
+  },
+  "lean":{
+    "past": "leant",
+    "participles": "leant",
+    "translation": "apoyarse",
+    "hint": 6,
+    "frequency": 0.0036608365451719902
+  },
+  "leap":{
+    "past": "leapt",
+    "participles": "leapt",
+    "translation": "brincar",
+    "hint": 6,
+    "frequency": 0.0032120612428378353
+  },
+  "learn":{
+    "past": "learnt/learned",
+    "participles": "learnt/learned",
+    "translation": "aprender",
+    "hint": 3,
+    "frequency": 0.0071955964370240015
+  },
+  "leave":{
+    "past": "left",
+    "participles": "left",
+    "translation": "dejar",
+    "hint": 5,
+    "frequency": 0.009421352371685792
+  },
+  "lend":{
+    "past": "lent",
+    "participles": "lent",
+    "translation": "prestar",
+    "hint": 1,
+    "frequency": 0.004729484866155925
+  },
+  "let":{
+    "past": "let",
+    "participles": "let",
+    "translation": "permitir",
+    "hint": 9,
+    "frequency": 0.010325088229754234
+  },
+  "lie":{
+    "past": "lay",
+    "participles": "lain",
+    "translation": "echarse",
+    "hint": 1,
+    "frequency": 0.00687278307020967
+  },
+  "light":{
+    "past": "lit",
+    "participles": "lit",
+    "translation": "encender",
+    "hint": 1,
+    "frequency": 0.0069719366814029364
+  },
+  "lose":{
+    "past": "lost",
+    "participles": "lost",
+    "translation": "perder",
+    "hint": 2,
+    "frequency": 0.00846095654849425
+  },
+  "make":{
+    "past": "made",
+    "participles": "made",
+    "translation": "hacer",
+    "hint": 2,
+    "frequency": 0.009799672770452062
+  },
+  "mean":{
+    "past": "meant",
+    "participles": "meant",
+    "translation": "significar",
+    "hint": 6,
+    "frequency": 0.009013722865741864
+  },
+  "meet":{
+    "past": "met",
+    "participles": "met",
+    "translation": "encontrar",
+    "hint": 5,
+    "frequency": 0.00842230149559535
+  },
+  "mistake":{
+    "past": "mistook",
+    "participles": "mistaken",
+    "translation": "equivocar",
+    "hint": 1,
+    "frequency": 0.0062525759348915615
+  },
+  "overcome":{
+    "past": "overcome",
+    "participles": "overcome",
+    "translation": "vencer",
+    "hint": 9,
+    "frequency": 0.004583372378020112
+  },
+  "pay":{
+    "past": "paid",
+    "participles": "paid",
+    "translation": "pagar",
+    "hint": 4,
+    "frequency": 0.00791753086119322
+  },
+  "put":{
+    "past": "put",
+    "participles": "put",
+    "translation": "poner",
+    "hint": 9,
+    "frequency": 0.009757433323387377
+  },
+  "read":{
+    "past": "read",
+    "participles": "read",
+    "translation": "leer",
+    "hint": 6,
+    "frequency": 0.008416870438273057
+  },
+  "ride":{
+    "past": "rode",
+    "participles": "ridden",
+    "translation": "montar",
+    "hint": 1,
+    "frequency": 0.006424016527520303
+  },
+  "ring":{
+    "past": "rang",
+    "participles": "rung",
+    "translation": "llamar",
+    "hint": 1,
+    "frequency": 0.006162858667173359
+  },
+  "rise":{
+    "past": "rose",
+    "participles": "risen",
+    "translation": "levantarse",
+    "hint": 1,
+    "frequency": 0.005953595505431197
+  },
+  "run":{
+    "past": "ran",
+    "participles": "run",
+    "translation": "correr",
+    "hint": 2,
+    "frequency": 0.008523756347470955
+  },
+  "say":{
+    "past": "said",
+    "participles": "said",
+    "translation": "decir",
+    "hint": 4,
+    "frequency": 0.010324478143243093
+  },
+  "see":{
+    "past": "saw",
+    "participles": "seen",
+    "translation": "ver",
+    "hint": 1,
+    "frequency": 0.010196773098159431
+  },
+  "seek":{
+    "past": "sought",
+    "participles": "sought",
+    "translation": "buscar",
+    "hint": 8,
+    "frequency": 0.005015826778198736
+  },
+  "sell":{
+    "past": "sold",
+    "participles": "sold",
+    "translation": "vender",
+    "hint": 7,
+    "frequency": 0.007008314217806718
+  },
+  "send":{
+    "past": "sent",
+    "participles": "sent",
+    "translation": "enviar",
+    "hint": 1,
+    "frequency": 0.007955373818228032
+  },
+  "set":{
+    "past": "set",
+    "participles": "set",
+    "translation": "poner(se",
+    "hint": 9,
+    "frequency": 0.00831316593171856
+  },
+  "sew":{
+    "past": "sewed",
+    "participles": "sewed/sewn",
+    "translation": "coser",
+    "hint": 1,
+    "frequency": 0.0035600238791842287
+  },
+  "shake":{
+    "past": "shook",
+    "participles": "shaken",
+    "translation": "sacudir",
+    "hint": 1,
+    "frequency": 0.0053321550512778395
+  },
+  "shear":{
+    "past": "shook",
+    "participles": "shaken",
+    "translation": "esquilar",
+    "hint": 1,
+    "frequency": 0.0034741010847965416
+  },
+  "shine":{
+    "past": "shone",
+    "participles": "shone",
+    "translation": "brillar",
+    "hint": 1,
+    "frequency": 0.004581655134466809
+  },
+  "shoot":{
+    "past": "shot",
+    "participles": "shot",
+    "translation": "disparar",
+    "hint": 1,
+    "frequency": 0.008195899537891953
+  },
+  "show":{
+    "past": "showed",
+    "participles": "shown",
+    "translation": "mostrar",
+    "hint": 1,
+    "frequency": 0.008070912299612454
+  },
+  "shrink":{
+    "past": "shrank",
+    "participles": "shrunk",
+    "translation": "encogerse",
+    "hint": 1,
+    "frequency": 0.0034937579902145155
+  },
+  "shut":{
+    "past": "shut",
+    "participles": "shut",
+    "translation": "cerrar",
+    "hint": 9,
+    "frequency": 0.008620405607330338
+  },
+  "sing":{
+    "past": "sang",
+    "participles": "sung",
+    "translation": "cantar",
+    "hint": 1,
+    "frequency": 0.006467644228025686
+  },
+  "sink":{
+    "past": "sank",
+    "participles": "sunk",
+    "translation": "hundir",
+    "hint": 1,
+    "frequency": 0.004499751911926952
+  },
+  "sit":{
+    "past": "sat",
+    "participles": "sat",
+    "translation": "sentarse",
+    "hint": 2,
+    "frequency": 0.007661514198874092
+  },
+  "sleep":{
+    "past": "slept",
+    "participles": "slept",
+    "translation": "dormir",
+    "hint": 5,
+    "frequency": 0.007536311531184115
+  },
+  "slide":{
+    "past": "slid",
+    "participles": "slid",
+    "translation": "resbalar",
+    "hint": 1,
+    "frequency": 0.003936071739187651
+  },
+  "smell":{
+    "past": "smelt",
+    "participles": "smelt",
+    "translation": "oler",
+    "hint": 3,
+    "frequency": 0.005947853327325137
+  },
+  "sow":{
+    "past": "sowed",
+    "participles": "sowed/sown",
+    "translation": "sembrar",
+    "hint": 1,
+    "frequency": 0.002705272248164131
+  },
+  "speak":{
+    "past": "spoke",
+    "participles": "spoken",
+    "translation": "hablar",
+    "hint": 1,
+    "frequency": 0.007429446675780274
+  },
+  "speed":{
+    "past": "sped",
+    "participles": "sped",
+    "translation": "acelerar",
+    "hint": 5,
+    "frequency": 0.005291374841350711
+  },
+  "spell":{
+    "past": "spelt",
+    "participles": "spelt",
+    "translation": "deletrear",
+    "hint": 3,
+    "frequency": 0.004495314156371302
+  },
+  "spend":{
+    "past": "spent",
+    "participles": "spent",
+    "translation": "gastar",
+    "hint": 1,
+    "frequency": 0.0070306369399283355
+  },
+  "spill":{
+    "past": "split/spilled",
+    "participles": "split/spilled",
+    "translation": "derramar",
+    "hint": 3,
+    "frequency": 0.00610125572550863
+  },
+  "spin":{
+    "past": "spun",
+    "participles": "spun",
+    "translation": "hilar",
+    "hint": 1,
+    "frequency": 0.004068588635109721
+  },
+  "spit":{
+    "past": "spat",
+    "participles": "spat",
+    "translation": "escupir",
+    "hint": 5,
+    "frequency": 0.00452746654212488
+  },
+  "split":{
+    "past": "split",
+    "participles": "split",
+    "translation": "hender/partir/rajar",
+    "hint": 9,
+    "frequency": 0.006335568354562081
+  },
+  "spoil":{
+    "past": "spoilt/spoiled",
+    "participles": "spoilt/spoiled",
+    "translation": "estropear",
+    "hint": 3,
+    "frequency": 0.004971647209318197
+  },
+  "spread":{
+    "past": "spread",
+    "participles": "spread",
+    "translation": "extender",
+    "hint": 9,
+    "frequency": 0.006199926638129391
+  },
+  "spring":{
+    "past": "sprang",
+    "participles": "sprung",
+    "translation": "saltar",
+    "hint": 1,
+    "frequency": 0.005157684828673218
+  },
+  "stand":{
+    "past": "stood",
+    "participles": "stood",
+    "translation": "estar en pie",
+    "hint": 2,
+    "frequency": 0.007380990211120975
+  },
+  "steal":{
+    "past": "stole",
+    "participles": "stolen",
+    "translation": "robar",
+    "hint": 1,
+    "frequency": 0.0065302233130598965
+  },
+  "stick":{
+    "past": "stuck",
+    "participles": "stuck",
+    "translation": "pegar engomar",
+    "hint": 1,
+    "frequency": 0.007036454917587741
+  },
+  "sting":{
+    "past": "stung",
+    "participles": "stunk",
+    "translation": "picar",
+    "hint": 1,
+    "frequency": 0.0033890197924876346
+  },
+  "stink":{
+    "past": "stank/stunk",
+    "participles": "stunk",
+    "translation": "apestar",
+    "hint": 1,
+    "frequency": 0.004003955461552425
+  },
+  "stride":{
+    "past": "strode",
+    "participles": "stridden",
+    "translation": "dar zancadas",
+    "hint": 1,
+    "frequency": 0.0019821160885304706
+  },
+  "strike":{
+    "past": "struck",
+    "participles": "struck",
+    "translation": "golpear",
+    "hint": 1,
+    "frequency": 0.005927473393387138
+  },
+  "swear":{
+    "past": "swore",
+    "participles": "sworn",
+    "translation": "jurar",
+    "hint": 1,
+    "frequency": 0.006319169802989011
+  },
+  "sweat":{
+    "past": "sweat",
+    "participles": "sweat",
+    "translation": "sudar",
+    "hint": 9,
+    "frequency": 0.005537791902183391
+  },
+  "sweep":{
+    "past": "swept",
+    "participles": "swept",
+    "translation": "barrer",
+    "hint": 5,
+    "frequency": 0.0043442650921372864
+  },
+  "swell":{
+    "past": "swelled",
+    "participles": "swollen",
+    "translation": "hinchar",
+    "hint": 1,
+    "frequency": 0.004386579895472099
+  },
+  "swim":{
+    "past": "swam",
+    "participles": "swum",
+    "translation": "nadar",
+    "hint": 1,
+    "frequency": 0.005030803869408113
+  },
+  "swing":{
+    "past": "swung",
+    "participles": "swung",
+    "translation": "columpiarse",
+    "hint": 1,
+    "frequency": 0.004630112409690959
+  },
+  "take":{
+    "past": "took",
+    "participles": "taken",
+    "translation": "coger",
+    "hint": 1,
+    "frequency": 0.009792351511385244
+  },
+  "teach":{
+    "past": "taught",
+    "participles": "taught",
+    "translation": "enseñar",
+    "hint": 8,
+    "frequency": 0.00682744486267261
+  },
+  "tear":{
+    "past": "tore",
+    "participles": "torn",
+    "translation": "rasgar",
+    "hint": 1,
+    "frequency": 0.005340175767186121
+  },
+  "tell":{
+    "past": "told",
+    "participles": "told",
+    "translation": "decir",
+    "hint": 7,
+    "frequency": 0.010039600293359378
+  },
+  "think":{
+    "past": "thought",
+    "participles": "thought",
+    "translation": "pensar",
+    "hint": 8,
+    "frequency": 0.010332031480826433
+  },
+  "throw":{
+    "past": "threw",
+    "participles": "thrown",
+    "translation": "arrojar/tirar",
+    "hint": 1,
+    "frequency": 0.006816734506928575
+  },
+  "thrust":{
+    "past": "thrust",
+    "participles": "thrust",
+    "translation": "introducir",
+    "hint": 9,
+    "frequency": 0.0038113889945282954
+  },
+  "tread":{
+    "past": "trod",
+    "participles": "trodden",
+    "translation": "pisar/hollar",
+    "hint": 1,
+    "frequency": 0.002254249765074964
+  },
+  "understand":{
+    "past": "understood",
+    "participles": "understood",
+    "translation": "entender",
+    "hint": 2,
+    "frequency": 0.008244279847388764
+  },
+  "undergo":{
+    "past": "underwent",
+    "participles": "undergone",
+    "translation": "sufrir",
+    "hint": 2,
+    "frequency": 0.001910599212072226
+  },
+  "undertake":{
+    "past": "undertook",
+    "participles": "undertaken",
+    "translation": "emprender",
+    "hint": 1,
+    "frequency": 0.0019417959007197996
+  },
+  "wake":{
+    "past": "woke",
+    "participles": "woken",
+    "translation": "despertarse",
+    "hint": 1,
+    "frequency": 0.0065939320426480425
+  },
+  "wear":{
+    "past": "wore",
+    "participles": "worn",
+    "translation": "llevar puesto",
+    "hint": 1,
+    "frequency": 0.006407649119364487
+  },
+  "weave":{
+    "past": "wove",
+    "participles": "woven",
+    "translation": "tejer",
+    "hint": 1,
+    "frequency": 0.002467640148747997
+  },
+  "weep":{
+    "past": "wept",
+    "participles": "wept",
+    "translation": "llorar",
+    "hint": 5,
+    "frequency": 0.0036752992346320845
+  },
+  "wet":{
+    "past": "wet",
+    "participles": "wet",
+    "translation": "mojar",
+    "hint": 9,
+    "frequency": 0.0063778030920310655
+  },
+  "win":{
+    "past": "won",
+    "participles": "won",
+    "translation": "ganar",
+    "hint": 2,
+    "frequency": 0.007442802045900757
+  },
+  "wind":{
+    "past": "wound",
+    "participles": "wound",
+    "translation": "enrollar",
+    "hint": 1,
+    "frequency": 0.006349303301674102
+  },
+  "withdraw":{
+    "past": "withdrew",
+    "participles": "withdrawn",
+    "translation": "retirarse",
+    "hint": 1,
+    "frequency": 0.0037110457063182036
+  },
+  "wring":{
+    "past": "wrung",
+    "participles": "wrung",
+    "translation": "torcer",
+    "hint": 1,
+    "frequency": 0.0017364033616725338
+  },
+  "write":{
+    "past": "wrote",
+    "participles": "written",
+    "translation": "escribir",
+    "hint": 1,
+    "frequency": 0.007321472890272944
+  },
+  "waylay":{
+    "past": "waylaid",
+    "participles": "waylaid",
+    "translation": "acechar",
+    "hint": 4,
+    "frequency": 0.0
+  },
+  "vex":{
+    "past": "vexed/vext",
+    "participles": "vexed/vext",
+    "translation": "vejar",
+    "hint": 3,
+    "frequency": 0.0011856848157563188
+  }
+}
+  
