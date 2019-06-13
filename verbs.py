@@ -3,7 +3,7 @@ import random
 class IVerbs:
     def guess(self):
         print '# List irregulars verbs #'
-        with open('verbsfull.json') as json_file:
+        with open('verbs.json') as json_file:
             verbs = json.load(json_file)
         totalVerbs = len(verbs) - 1
         continues = 1
@@ -14,11 +14,15 @@ class IVerbs:
                 if verbRandom == start:
                     print "\nVerb:", str(verb)
                     inputPast = raw_input('Past: ')
-                    if (verbs[verb]['past'] != inputPast):
+                    if (verbs[verb]['past'] == inputPast):
+                        print '\033[92m ok\033[0m'
+                    else:    
                         print '\033[91m x\033[0m'
                     pass
                     inputPastParticiple = raw_input('Past Participles: ')
-                    if (verbs[verb]['participles'] != inputPastParticiple):
+                    if (verbs[verb]['participles'] == inputPastParticiple):
+                        print '\033[92m ok\033[0m'
+                    else:    
                         print '\033[91m x\033[0m'
                     pass
                     print 'Verb: %s %s %s %s' % (verb, verbs[verb]['past'], verbs[verb]['participles'], verbs[verb]['translation'])
